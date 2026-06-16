@@ -2,3 +2,10 @@
 title = "Practical AI"
 authors = ["drbeane"]
 language = "en"
+
+[output.html]
+# Use default theme with custom CSS/JS
+additional-css = ["theme/custom.css"]
+additional-js = ["theme/pagetoc.js"]
+# Disable injecting page headings into the left sidebar nav
+sidebar-header-nav = false
