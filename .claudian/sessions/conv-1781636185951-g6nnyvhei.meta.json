@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781636185951-g6nnyvhei",
+  "providerId": "claude",
+  "title": "Add em-dash usage note to CLAUDE.md",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781636185951,
+  "updatedAt": 1781636432368,
+  "lastResponseAt": 1781636432368,
+  "sessionId": "ba6faf48-4d34-46db-8b24-2a3671c6d17a",
+  "providerState": {
+    "providerSessionId": "ba6faf48-4d34-46db-8b24-2a3671c6d17a"
+  },
+  "currentNote": "src/index.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 462,
+    "cacheReadInputTokens": 22215,
+    "contextWindow": 200000,
+    "contextTokens": 22685,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

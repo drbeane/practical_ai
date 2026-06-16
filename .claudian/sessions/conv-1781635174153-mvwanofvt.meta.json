@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781635174153-mvwanofvt",
+  "providerId": "claude",
+  "title": "Greet assistant",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781635174154,
+  "updatedAt": 1781635468805,
+  "lastResponseAt": 1781635380968,
+  "sessionId": "43e54c9a-bbfd-4440-ac13-b3528da6b2aa",
+  "providerState": {
+    "providerSessionId": "43e54c9a-bbfd-4440-ac13-b3528da6b2aa"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2037,
+    "cacheReadInputTokens": 21796,
+    "contextWindow": 200000,
+    "contextTokens": 23841,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

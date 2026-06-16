@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781636479623-bxisxlbn1",
+  "providerId": "claude",
+  "title": "Publish mdBook to GitHub Pages",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781636479623,
+  "updatedAt": 1781636643588,
+  "lastResponseAt": 1781636643588,
+  "sessionId": "21f5769e-62bb-48c7-9f3d-667587c8e018",
+  "providerState": {
+    "providerSessionId": "21f5769e-62bb-48c7-9f3d-667587c8e018"
+  },
+  "currentNote": "src/index.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 257,
+    "cacheReadInputTokens": 23018,
+    "contextWindow": 200000,
+    "contextTokens": 23285,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

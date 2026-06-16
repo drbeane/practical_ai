@@ -1,0 +1,56 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "6OhTsvi7vr5JEZ2cB2BA_",
+      "name": "",
+      "value": "#f445f7"
+    },
+    {
+      "id": "5PqgnpdzAJb56RnAolVww",
+      "name": "",
+      "value": "#0a84b8"
+    },
+    {
+      "id": "Do1GFn5C3-C1nQYP3gLR6",
+      "name": "",
+      "value": "#f36868"
+    },
+    {
+      "id": "x5j5NHbB-e8uGylo4S7DR",
+      "name": "",
+      "value": "#abfb5b"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Artificial Intelligence",
+      "color": "5PqgnpdzAJb56RnAolVww"
+    },
+    {
+      "path": "Projects/work-admin",
+      "color": "Do1GFn5C3-C1nQYP3gLR6"
+    },
+    {
+      "path": "Projects/work-students",
+      "color": "Do1GFn5C3-C1nQYP3gLR6"
+    },
+    {
+      "path": "Projects/work-scholarship",
+      "color": "Do1GFn5C3-C1nQYP3gLR6"
+    },
+    {
+      "path": "Projects/work-scheduling",
+      "color": "Do1GFn5C3-C1nQYP3gLR6"
+    },
+    {
+      "path": "Projects/work-teaching",
+      "color": "Do1GFn5C3-C1nQYP3gLR6"
+    },
+    {
+      "path": "Projects/personal",
+      "color": "5PqgnpdzAJb56RnAolVww"
+    }
+  ]
+}

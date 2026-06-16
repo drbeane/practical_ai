@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781635481067-4p1ejweh4",
+  "providerId": "claude",
+  "title": "Write Practical AI landing page",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781635481067,
+  "updatedAt": 1781636297118,
+  "lastResponseAt": 1781636297118,
+  "sessionId": "32d5d3d3-eeb0-4a31-a3c8-50b39097ac0f",
+  "providerState": {
+    "providerSessionId": "32d5d3d3-eeb0-4a31-a3c8-50b39097ac0f"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1112,
+    "cacheReadInputTokens": 22283,
+    "contextWindow": 200000,
+    "contextTokens": 23403,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "styles": {
+    "Artificial Intelligence": {
+      "textColor": "#f12eff",
+      "isBold": true
+    },
+    "copilot": {
+      "textColor": "#31aa4f",
+      "isBold": true
+    },
+    "Courses": {
+      "textColor": "#f12eff",
+      "isBold": true
+    },
+    "Artificial Intelligence Tools": {
+      "textColor": "#f12eff",
+      "isBold": true
+    },
+    "Artificial Intelligence Concepts": {
+      "textColor": "#f12eff",
+      "isBold": true
+    }
+  },
+  "presets": {
+    "Pink": {
+      "textColor": "#f12eff",
+      "isBold": true
+    },
+    "Green": {
+      "textColor": "#31aa4f",
+      "isBold": true
+    }
+  },
+  "presetOrder": [
+    "Pink",
+    "Green"
+  ]
+}
